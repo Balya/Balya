@@ -1,4 +1,4 @@
-### Hi there 👋
+[![LinkedIn](images/social/LinkedIn-color.svg)](https://www.linkedin.com/in/alexanderbalya/)
 
 <!--
 **Balya/Balya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
