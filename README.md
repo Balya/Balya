@@ -8,6 +8,10 @@
   <a target="_blank" href="https://twitter.com/Balya"><img alt="Twitter" width="48" height="48" src="https://raw.githubusercontent.com/Balya/Balya/master/images/social/Twitter-color.svg"></a>
   <span>&nbsp;&nbsp;</span>
   <a target="_blank" href="https://wa.me/79118579950"><img alt="Whatsapp" width="48" height="48" src="https://raw.githubusercontent.com/Balya/Balya/master/images/social/Whatsapp-color.svg"></a>
+  <span>&nbsp;&nbsp;</span>
+  <a target="_blank" href="https://t.me/ABalya"><img alt="Telegram" width="48" height="48" src="https://raw.githubusercontent.com/Balya/Balya/master/images/telegram.svg"></a>
+  <span>&nbsp;&nbsp;</span>
+  <a target="_blank" href="https://vk.com/alexanderbalya"><img alt="VK" width="48" height="48" src="https://raw.githubusercontent.com/Balya/Balya/master/images/vk.svg"></a>
 </p>
 
 <!--
