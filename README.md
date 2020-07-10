@@ -1,5 +1,15 @@
 [![LinkedIn](https://raw.githubusercontent.com/Balya/Balya/master/images/social/LinkedIn-color.svg)](https://www.linkedin.com/in/alexanderbalya/)
 
+[![LinkedIn](/images/social/LinkedIn-color.svg)](https://www.linkedin.com/in/alexanderbalya/)
+
+[![LinkedIn](https://github.com/Balya/Balya/images/social/LinkedIn-color.svg)](https://www.linkedin.com/in/alexanderbalya/)
+
+[![LinkedIn](https://github.com/Balya/Balya/images/social/LinkedIn-color.svg)](https://www.linkedin.com/in/alexanderbalya/)
+
+
+[![LinkedIn](https://github.com/Balya/Balya/blob/master/images/social/LinkedIn-color.svg)](https://www.linkedin.com/in/alexanderbalya/)
+
+
 <!--
 **Balya/Balya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
